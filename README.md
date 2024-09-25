@@ -1,2 +1,2 @@
-# 475CoffeeApp
+# LocalBeansApp
 # Aaron Erhart
